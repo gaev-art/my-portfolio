@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.4e05ed6b.chunk.css",
-    "main.js": "/my-portfolio/static/js/main.6b6506d9.chunk.js",
-    "main.js.map": "/my-portfolio/static/js/main.6b6506d9.chunk.js.map",
+    "main.css": "/my-portfolio/static/css/main.47b476ac.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.5462e515.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.5462e515.chunk.js.map",
     "runtime-main.js": "/my-portfolio/static/js/runtime-main.7e7d7162.js",
     "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.7e7d7162.js.map",
-    "static/js/2.d26e7f8b.chunk.js": "/my-portfolio/static/js/2.d26e7f8b.chunk.js",
-    "static/js/2.d26e7f8b.chunk.js.map": "/my-portfolio/static/js/2.d26e7f8b.chunk.js.map",
+    "static/js/2.f497761e.chunk.js": "/my-portfolio/static/js/2.f497761e.chunk.js",
+    "static/js/2.f497761e.chunk.js.map": "/my-portfolio/static/js/2.f497761e.chunk.js.map",
     "index.html": "/my-portfolio/index.html",
-    "precache-manifest.3323f2a38f797092ce5a67707ea8ad1c.js": "/my-portfolio/precache-manifest.3323f2a38f797092ce5a67707ea8ad1c.js",
+    "precache-manifest.a1347b4236dafb467f3f51da719b702d.js": "/my-portfolio/precache-manifest.a1347b4236dafb467f3f51da719b702d.js",
     "service-worker.js": "/my-portfolio/service-worker.js",
-    "static/css/main.4e05ed6b.chunk.css.map": "/my-portfolio/static/css/main.4e05ed6b.chunk.css.map",
-    "static/js/2.d26e7f8b.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.d26e7f8b.chunk.js.LICENSE.txt",
+    "static/css/main.47b476ac.chunk.css.map": "/my-portfolio/static/css/main.47b476ac.chunk.css.map",
+    "static/js/2.f497761e.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.f497761e.chunk.js.LICENSE.txt",
     "static/media/Banner.module.scss": "/my-portfolio/static/media/bg-image-28.996eb1fe.jpg",
-    "static/media/photo.JPG": "/my-portfolio/static/media/photo.ce4290b7.JPG",
+    "static/media/photo.jpg": "/my-portfolio/static/media/photo.ce4290b7.jpg",
     "static/media/social-network-background.jpg": "/my-portfolio/static/media/social-network-background.38aa1123.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.7e7d7162.js",
-    "static/js/2.d26e7f8b.chunk.js",
-    "static/css/main.4e05ed6b.chunk.css",
-    "static/js/main.6b6506d9.chunk.js"
+    "static/js/2.f497761e.chunk.js",
+    "static/css/main.47b476ac.chunk.css",
+    "static/js/main.5462e515.chunk.js"
   ]
 }
